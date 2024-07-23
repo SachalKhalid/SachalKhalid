@@ -9,7 +9,9 @@
     <p>🤝 I’m looking opportunities to work with and learn form people and grow together.</p>
     <p>🌱 I’m doing Leetcode to improve problem solving.</p>
     <p>🥅 I have goal to empower underprivilege people to learn and know technology and grow in their life.</p>
-    <p align="left">📫 How to reach me: <a href="mailto:sachalkhalid@088gmail.com">sachalkhalid@088gmail.com</a></p>
+    <p align="left">📫 How to reach me: <a href="mailto:sachal.aarbi088@gmail.com
+">sachal.aarbi088@gmail.com
+</a></p>
     
      
 </div>
