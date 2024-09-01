@@ -50,8 +50,8 @@
 <div>
   <h2 align="left">📜 Certifications</h2>
   <ul>
-    <li>Django - Coursera: <a href="https://www.coursera.org/account/accomplishments/verify/">Certificate Link</a></li>
-    <li>Programming for Everybody (Getting Started with Python) - Coursera: <a href="https://www.coursera.org/account/accomplishments/verify/9RY">Certificate Link</a></li>
+    <li>Django - Coursera: <a href="https://www.coursera.org/account/accomplishments/certificate/AEPZFKD94XPJ">Certificate Link</a></li>
+    <li>Programming for Everybody (Getting Started with Python) - Coursera: <a href="https://www.coursera.org/account/accomplishments/certificate/9RY59TZWP6CQ">Certificate Link</a></li>
   </ul>
 </div>
 
